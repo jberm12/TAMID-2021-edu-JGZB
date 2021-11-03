@@ -1,0 +1,43 @@
+{
+  "Quarterbacks" : [ {
+    "CMP%" : 68.9,
+    "First Name" : "Matthew",
+    "INT" : 4,
+    "Last Name" : "Stafford",
+    "TD" : 22,
+    "Team" : "LAR",
+    "YDS" : 2477
+  }, {
+    "CMP%" : 67.3,
+    "First Name" : "Tom",
+    "INT" : 5,
+    "Last Name" : "Brady",
+    "TD" : 25,
+    "Team" : "TB",
+    "YDS" : 2650
+  }, {
+    "CMP%" : 66.5,
+    "First Name" : "Patrick",
+    "INT" : 10,
+    "Last Name" : "Mahomes",
+    "TD" : 19,
+    "Team" : "KC",
+    "YDS" : 2368
+  }, {
+    "CMP%" : 72.7,
+    "First Name" : "Kyler",
+    "INT" : 7,
+    "Last Name" : "Murray",
+    "TD" : 17,
+    "Team" : "ARI",
+    "YDS" : 2276
+  }, {
+    "CMP%" : 67.7,
+    "First Name" : "Derek",
+    "INT" : 5,
+    "Last Name" : "Carr",
+    "TD" : 12,
+    "Team" : "LV",
+    "YDS" : 2269
+  } ]
+}
